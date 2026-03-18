@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cristoffer Wanzinck
 
-<!--
-**CristofferW/CristofferW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Segurança da Informação
+Desenvolvedor com foco em Web e Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante de tecnologia com foco em desenvolvimento e segurança da informação.
+Tenho experiência com PHP, MySQL, e estou aprofundando meus conhecimentos em cybersecurity, automação e análise de sistemas.
+
+---
+
+## 🔐 Áreas de interesse
+
+* Cybersecurity (Blue Team / Pentest básico)
+* Desenvolvimento Web
+* Automação de tarefas
+* Segurança em aplicações
+
+---
+
+## 💻 Tecnologias
+
+* PHP
+* MySQL
+* Java
+* JavaScript
+* Python (aprendendo)
+* HTML, CSS, Bootstrap
+
+---
+
+## 🚀 Projetos em destaque
+
+* 🔧 PHE Optimizer – Aplicação Web Para Geração de Otimizações Via Scrip
+
+---
+
+## 📈 Em aprendizado
+
+* Segurança de aplicações web
+* Análise de vulnerabilidades
+* Redes e protocolos
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/cristofferwanzinck/
