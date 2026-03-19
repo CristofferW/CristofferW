@@ -34,7 +34,7 @@ Tenho experiência com PHP, MySQL, e estou aprofundando meus conhecimentos em cy
 
 ## 🚀 Projetos em destaque
 
-* 🔧 PHE Optimizer – Aplicação Web Para Geração de Otimizações Via Scrip
+* 🔧 PHE Optimizer – Aplicação Web Para Geração de Otimizações Via Script
 
 ---
 
